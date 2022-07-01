@@ -1,0 +1,34 @@
+body {
+  font-family: "BIZ UDPGothic", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  transition: all ease 0.2s;
+  text-decoration: none;
+}
+
+button {
+  height: 40px;
+  background: #ea4c89;
+  border: 0;
+  border-radius: 8px;
+  color: #fff;
+  max-width: max-content;
+  padding: 0 15px;
+  cursor: pointer;
+  transition: all ease 0.2s;
+}
+
+button:hover {
+  background: #f082ac;
+}
